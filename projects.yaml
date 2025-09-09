@@ -3,9 +3,9 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+   - category: aerial
+     title: Aerial Robotics Simulators
+     subtitle: "Simulator frameworks made especially for aerial robotics"
 
 labels:
   # - label: "python"
@@ -13,7 +13,131 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+   - name: airsim
+     github_id: microsoft/AirSim
+     category: aerial
+     show: False # No longer maintained since 2022
+     doc_url: "https://microsoft.github.io/AirSim/"
+     license: mit
+   - name: RotorS
+     github_id: ethz-asl/rotors_simulator
+     labels: []
+     category: aerial
+     license: mit
+   - name: Pegasus Simulator
+     github_id: PegasusSimulator/PegasusSimulator
+     labels: []
+     category: aerial
+     homepage: https://pegasussimulator.github.io/PegasusSimulator/
+   - name: Aerial Gym Simulator
+     github_id: ntnu-arl/aerial_gym_simulator
+     labels: []
+     category: C
+     homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
+   - name: Flightmare
+     github_id: uzh-rpg/flightmare
+     labels: []
+     category: aerial
+     homepage: https://uzh-rpg.github.io/flightmare/
+     license: MIT
+   - name: FlightGoggles
+     github_id: mit-aera/FlightGoggles
+     labels: []
+     category: aerial
+     homepage: https://flightgoggles.mit.edu/
+     license: MIT
+   - name: Gym Pybullet Drones
+     github_id: utiasDSL/gym-pybullet-drones
+     labels: []
+     category: aerial
+     homepage: https://utiasdsl.github.io/gym-pybullet-drones/
+   - name: RotorTM
+     github_id: arplaboratory/RotorTM
+     labels: []
+     category: aerial
+   - name: Matlab UAV Toolbox
+     labels: []
+     category: aerial
+     homepage: https://www.mathworks.com/products/uav.html
+     license: MathWorks Software License Agreement
+   - name: Flightgear
+     gitlab_id: flightgear/flightgear
+     labels: []
+     category: aerial
+     homepage: https://www.flightgear.org/
+     license: gnu-gpl2
+   - name: Realflight
+     labels: []
+     category: aerial
+     homepage: https://www.realflight.com/
+     license: proprietary software license
+   - name: rotorpy
+     github_id: spencerfolk/rotorpy
+     labels: []
+     category: aerial
+   - name: CrazyS
+     github_id: gsilano/CrazyS
+     labels: []
+     category: aerial
+   - name: X-plane
+     homepage: https://www.x-plane.com/
+     license: proprietary license
+     category: aerial
+   - name: jMAVSim
+     github_id: PX4/jMAVSim
+     category: aerial
+   - name: Cosys-AirSim
+     github_id: Cosys-Lab/Cosys-AirSim
+     category: aerial
+     license: mit
+     homepage: https://cosys-lab.github.io/Cosys-AirSim/
+   - name: swarm_sync_sim 
+     github_id: shupx/swarm_sync_sim
+     category: aerial
+   - name: Isaac Drone Racer
+     github_id: kousheekc/isaac_drone_racer
+     category: aerial
+   - name: Gymfc
+     github_id: wil3/gymfc/
+     category: aerial
+     homepage:  http://wfk.io/neuroflight/
+   - name: PyFlyt
+     github_id: jjshoots/PyFlyt
+     category: aerial
+     home_page: https://taijunjet.com/PyFlyt/index.html
+     pypi_id: pyflyt
+   - name: Itomori
+     github_id: gustavo-moura/itomori
+     category: aerial
+   - name: Fly Craft
+     github_id: GongXudong/fly-craft
+     category: aerial
+     pypi_id: flycraft
+   - name: Spleenlab simulator
+     homepage: https://spleenlab.com/
+     category: aerial
+     license: proprietary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
