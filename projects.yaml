@@ -77,46 +77,6 @@ projects:
      github_id: JacopoPan/aerial-autonomy-stack
      labels: []
      category: stacks
-   - name: Agilicious
-     github_id: uzh-rpg/agilicious
-     labels: []
-     category: stacks
-   - name: KumarRobotics Autonomy Stack	
-     github_id: KumarRobotics/kr_autonomous_flight
-     labels: []
-     category: stacks
-   - name: CrazyChoir
-     github_id: OPT4SMART/crazychoir
-     labels: []
-     category: stacks
-   - name: UAL
-     github_id: grvcTeam/grvc-ual
-     labels: []
-     category: stacks
-   - name: XTDrone
-     github_id: robin-shaun/XTDrone
-     labels: []
-     category: stacks
-   - name: RotorS
-     github_id: ethz-asl/rotors_simulator
-     labels: []
-     category: stacks
-   - name: GAAS
-     github_id: generalized-intelligence/GAAS
-     labels: []
-     category: stacks
-   - name: MRS AUV System
-     github_id: ctu-mrs/mrs_uav_system
-     labels: []
-     category: stacks
-   - name: Crazyswarm(1)
-     github_id: USC-ACTLab/crazyswarm
-     labels: []
-     category: stacks
-   - name: Crazyswarm2
-     github_id: IMRCLab/crazyswarm2
-     labels: []
-     category: stacks
      
    # Simulators
    - name: airsim
