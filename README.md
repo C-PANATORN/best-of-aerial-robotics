@@ -10,17 +10,18 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-23-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-26-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/C-PANATORN/best-of-aerial-robotics/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/C-PANATORN/best-of-aerial-robotics?color=green&label=updated"></a>
 </p>
 
-This curated list contains 23 awesome open-source projects with a total of 25K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/C-PANATORN/best-of-aerial-robotics/issues/new/choose), submit a [pull request](https://github.com/C-PANATORN/best-of-aerial-robotics/pulls), or directly edit the [projects.yaml](https://github.com/C-PANATORN/best-of-aerial-robotics/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 26 awesome open-source projects with a total of 25K stars grouped into 2 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/C-PANATORN/best-of-aerial-robotics/issues/new/choose), submit a [pull request](https://github.com/C-PANATORN/best-of-aerial-robotics/pulls), or directly edit the [projects.yaml](https://github.com/C-PANATORN/best-of-aerial-robotics/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
+- [Aerial Autonomy Stacks](#aerial-autonomy-stacks) _3 projects_
 - [Aerial Robotics Simulators](#aerial-robotics-simulators) _23 projects_
 
 ## Explanation
@@ -38,6 +39,38 @@ This curated list contains 23 awesome open-source projects with a total of 25K s
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
 
+<br>
+
+## Aerial Autonomy Stacks
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Software development stacks for aerial robotics_
+
+<details><summary><b><a href="https://github.com/aerostack2/aerostack2">Aerostack2</a></b> (🥇19 ·  ⭐ 230 · ➕) - Aerostack2 is a ROS 2 framework developed to create autonomous multi-aerial-robots systems in an easy and powerful way. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/aerostack2/aerostack2) (👨‍💻 18 · 🔀 56 · 📋 310 - 18% open · ⏱️ 23.07.2025):
+
+	```
+	git clone https://github.com/aerostack2/aerostack2
+	```
+</details>
+<details><summary><b><a href="https://github.com/cvar-upm/aerostack">Aerostack(1)</a></b> (🥉13 ·  ⭐ 160 · 💤) - Software framework for aerial robotic systems. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/cvar-upm/aerostack) (👨‍💻 50 · 🔀 43 · 📋 73 - 5% open · ⏱️ 16.11.2021):
+
+	```
+	git clone https://github.com/cvar-upm/aerostack
+	```
+</details>
+<details><summary><b><a href="https://github.com/JacopoPan/aerial-autonomy-stack">Aerial Autonomy Stack (AAS)</a></b> (🥉9 ·  ⭐ 14 · 🐣) - ROS2 multi-drone PX4 and ArduPilot SITL with YOLOusing Dockerized simulation and deployment for Jetson. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) (👨‍💻 3 · 🔀 1 · ⏱️ 07.09.2025):
+
+	```
+	git clone https://github.com/JacopoPan/aerial-autonomy-stack
+	```
+</details>
 <br>
 
 ## Aerial Robotics Simulators
@@ -78,7 +111,7 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/uzh-rpg/flightmare
 	```
 </details>
-<details><summary><b><a href="https://github.com/jjshoots/PyFlyt">PyFlyt</a></b> (🥈17 ·  ⭐ 180) - UAV Flight Simulator for Reinforcement Learning Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jjshoots/PyFlyt">PyFlyt</a></b> (🥈17 ·  ⭐ 180) - UAV Flight Simulator for Reinforcement Learning Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>PyBullet</code> <code>OpenGL</code></summary>
 
 - [GitHub](https://github.com/jjshoots/PyFlyt) (👨‍💻 11 · 🔀 33 · 📦 37 · 📋 57 - 24% open · ⏱️ 17.06.2025):
 
@@ -114,7 +147,7 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/ntnu-arl/aerial_gym_simulator
 	```
 </details>
-<details><summary><b><a href="http://wfk.io/neuroflight/">Gymfc</a></b> (🥈14 ·  ⭐ 430 · 💤) - A universal flight control tuning framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>PyBullet</code> <code>OpenGL</code></summary>
+<details><summary><b><a href="http://wfk.io/neuroflight/">Gymfc</a></b> (🥈14 ·  ⭐ 430 · 💤) - A universal flight control tuning framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/wil3/gymfc) (🔀 100 · 📋 81 - 11% open · ⏱️ 07.10.2021):
 
@@ -138,7 +171,7 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/PX4/jMAVSim
 	```
 </details>
-<details><summary><b><a href="https://github.com/gsilano/CrazyS">CrazyS</a></b> (🥉13 ·  ⭐ 170 · 💤) - CrazyS is an extension of the ROS package RotorS, aimed to modeling, developing and integrating the Crazyflie 2.0. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/gsilano/CrazyS">CrazyS</a></b> (🥉13 ·  ⭐ 170 · 💤) - CrazyS is an extension of the ROS package RotorS, aimed to modeling, developing and integrating the Crazyflie 2.0. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Gazebo</code></summary>
 
 - [GitHub](https://github.com/gsilano/CrazyS) (👨‍💻 2 · 🔀 84 · 📋 88 - 10% open · ⏱️ 11.08.2022):
 
