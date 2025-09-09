@@ -69,13 +69,10 @@ projects:
      github_id: cvar-upm/aerostack
      labels: []
      category: stacks
-     homepage: https://github.com/cvar-upm/aerostack/wiki
-     license: BSD-3-Clause
    - name: Aerostack2
      github_id: aerostack2/aerostack2
      labels: []
      category: stacks
-     homepage: https://aerostack2.github.io/
    - name: Aerial Autonomy Stack (AAS)
      github_id: JacopoPan/aerial-autonomy-stack
      labels: []
@@ -84,7 +81,6 @@ projects:
      github_id: uzh-rpg/agilicious
      labels: []
      category: stacks
-     homepage: https://agilicious.readthedocs.io/en/latest/index.html
    - name: KumarRobotics Autonomy Stack	
      github_id: KumarRobotics/kr_autonomous_flight
      labels: []
@@ -102,7 +98,7 @@ projects:
      labels: []
      category: stacks
    - name: RotorS
-     gitlab_id: ethz-asl/rotors_simulator
+     github_id: ethz-asl/rotors_simulator
      labels: []
      category: stacks
    - name: GAAS
@@ -114,12 +110,11 @@ projects:
      labels: []
      category: stacks
    - name: Crazyswarm(1)
-     gitlab_id: USC-ACTLab/crazyswarm
+     github_id: USC-ACTLab/crazyswarm
      labels: []
      category: stacks
-     homepage: https://crazyswarm.readthedocs.io/en/latest/
    - name: Crazyswarm2
-     gitlab_id: IMRCLab/crazyswarm2
+     github_id: IMRCLab/crazyswarm2
      labels: []
      category: stacks
      
