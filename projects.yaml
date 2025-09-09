@@ -18,67 +18,94 @@ categories:
      subtitle: "Simulator frameworks made especially for aerial robotics"
 
 labels:
-   - label: "ROS1"
-     name: "ROS1"
-   - label: "ROS2"
-     name: "ROS2"
+   # Physics Engine
+   - label: "NVIDIA PhysX"
+     name: "NVIDIA PhysX"
+   - label: "DART"
+     name: "DART"
+   - label: "Ad hoc"
+     name: "Ad hoc"
+   - label: "PyBullet"
+     name: "PyBullet"
    - label: "MATLAB"
      name: "MATLAB"
-   - label: "PX4"
-     name: "PX4"
-   - label: "ArduPilot"
-     name: "ArduPilot"
-   - label: "CF"
-     name: "Crazyflie"
-   - label: "Betaflight"
-     name: "Betaflight"
+   - label: "ODE"
+     name: "ODE"
+     
+   # Rendering 
+   - label: "Unity"
+     name: "Unity"
+   - label: "Unreal Engine"
+     name: "Unreal Engine"
+   - label: "OGRE"
+     name: "OGRE"
+   - label: "OpenGL"
+     name: "OpenGL"
+   - label: "Java3D"
+     name: "Java3D"
 
+   # Framework
+   - label: "NVIDIA Isaac Sim"
+     name: "NVIDIA Isaac Sim"
+   - label: "NVIDIA Isaac Gym"
+     name: "NVIDIA Isaac Gym"
+   - label: "NVIDIA Isaac Lab"
+     name: "NVIDIA Isaac Lab"
+   - label: "Gazebo"
+     name: "Gazebo"
+
+   # RL
+   - label: "OpenAI Gym"  
+     name: "OpenAI Gym"  
+   - label: "OpenAI Gymnasium"
+     name: "OpenAI Gymnasium"
+   
 projects:
    - name: airsim
      github_id: microsoft/AirSim
-     labels: ["ROS1", "PX4", "ArduPilot"]
+     labels: ["NVIDIA PhysX", "Unreal Engine", "Unity"]
      category: aerial
      show: False # No longer maintained since 2022
      doc_url: "https://microsoft.github.io/AirSim/"
      license: mit
    - name: RotorS
      github_id: ethz-asl/rotors_simulator
-     labels: ["ROS1"]
+     labels: ["Gazebo"]
      category: aerial
      license: mit
    - name: Pegasus Simulator
      github_id: PegasusSimulator/PegasusSimulator
-     labels: ["PX4", "ArduPilot"]
+     labels: ["NVIDIA Isaac Sim"]
      category: aerial
      homepage: https://pegasussimulator.github.io/PegasusSimulator/
    - name: Aerial Gym Simulator
      github_id: ntnu-arl/aerial_gym_simulator
-     labels: ["PX4"]
+     labels: ["NVIDIA Isaac Gym"]
      category: aerial
      homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
    - name: Flightmare
      github_id: uzh-rpg/flightmare
-     labels: ["ROS1"]
+     labels: ["Gazebo", "Ad hoc", "OpenAI Gym", "Unity"]
      category: aerial
      homepage: https://uzh-rpg.github.io/flightmare/
      license: MIT
    - name: FlightGoggles
      github_id: mit-aera/FlightGoggles
-     labels: ["ROS1"]
+     labels: ["Ad hoc", "Unity"]
      category: aerial
      homepage: https://flightgoggles.mit.edu/
      license: MIT
    - name: Gym Pybullet Drones
      github_id: utiasDSL/gym-pybullet-drones
-     labels: ["Betaflight", "Crazyfile"]
+     labels: ["PyBulet", "OpenGL"]
      category: aerial
      homepage: https://utiasdsl.github.io/gym-pybullet-drones/
    - name: RotorTM
      github_id: arplaboratory/RotorTM
-     labels: ["ROS1"]
+     labels: ["Ad hoc", "OpenGL"]
      category: aerial
    - name: Matlab UAV Toolbox
-     labels: ["ROS2", "PX4", "MATLAB"]
+     labels: ["MATLAB", "Unreal Engine"]
      category: aerial
      homepage: https://www.mathworks.com/products/uav.html
      license: MathWorks Software License Agreement
@@ -95,7 +122,7 @@ projects:
      license: proprietary software license
    - name: rotorpy
      github_id: spencerfolk/rotorpy
-     labels: []
+     labels: ["Ad hoc"]
      category: aerial
    - name: CrazyS
      github_id: gsilano/CrazyS
@@ -108,24 +135,25 @@ projects:
      category: aerial
    - name: jMAVSim
      github_id: PX4/jMAVSim
-     labels: ["PX4"]
+     labels: ["Java3D"]
      category: aerial
    - name: Cosys-AirSim
      github_id: Cosys-Lab/Cosys-AirSim
-     labels: ["PX4", "MATLAB"]
+     labels: ["Unreal Engine"]
      category: aerial
      license: mit
      homepage: https://cosys-lab.github.io/Cosys-AirSim/
    - name: swarm_sync_sim 
      github_id: shupx/swarm_sync_sim
-     labels: []
+     labels: ["ODE", "OpenGL"]
      category: aerial
    - name: Isaac Drone Racer
      github_id: kousheekc/isaac_drone_racer
+     labels: ["NVIDIA Isaac Lab"]
      category: aerial
    - name: Gymfc
      github_id: wil3/gymfc/
-     labels: []
+     labels: ["PyBullet", "OpenGL"]
      category: aerial
      homepage:  http://wfk.io/neuroflight/
    - name: PyFlyt
@@ -136,11 +164,11 @@ projects:
      pypi_id: pyflyt
    - name: Itomori
      github_id: gustavo-moura/itomori
-     labels: []
+     labels: ["OpenAI Gymnasium"]
      category: aerial
    - name: Fly Craft
      github_id: GongXudong/fly-craft
-     labels: []
+     labels: ["OpenAI Gymnasium"]
      category: aerial
      pypi_id: flycraft
    - name: Spleenlab simulator
