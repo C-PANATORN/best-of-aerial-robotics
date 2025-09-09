@@ -19,66 +19,66 @@ categories:
 
 labels:
    - label: "ROS1"
-     description: "ROS1"
+     name: "ROS1"
    - label: "ROS2"
-     description: "ROS2"
+     name: "ROS2"
    - label: "MATLAB"
-     description: "MATLAB"
+     name: "MATLAB"
    - label: "PX4"
-     description: "PX4"
+     name: "PX4"
    - label: "ArduPilot"
-     description: "ArduPilot"
+     name: "ArduPilot"
    - label: "CF"
-     description: "Crazyflie"
+     name: "Crazyflie"
    - label: "Betaflight"
-     description: "Betaflight"
+     name: "Betaflight"
 
 projects:
    - name: airsim
      github_id: microsoft/AirSim
-     labels: [ROS1, PX4, ArduPilot]
+     labels: ["ROS1", "PX4", "ArduPilot"]
      category: aerial
      show: False # No longer maintained since 2022
      doc_url: "https://microsoft.github.io/AirSim/"
      license: mit
    - name: RotorS
      github_id: ethz-asl/rotors_simulator
-     labels: [ROS1]
+     labels: ["ROS1"]
      category: aerial
      license: mit
    - name: Pegasus Simulator
      github_id: PegasusSimulator/PegasusSimulator
-     labels: [PX4, ArduPilot]
+     labels: ["PX4", "ArduPilot"]
      category: aerial
      homepage: https://pegasussimulator.github.io/PegasusSimulator/
    - name: Aerial Gym Simulator
      github_id: ntnu-arl/aerial_gym_simulator
-     labels: [PX4]
+     labels: ["PX4"]
      category: aerial
      homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
    - name: Flightmare
      github_id: uzh-rpg/flightmare
-     labels: [ROS1]
+     labels: ["ROS1"]
      category: aerial
      homepage: https://uzh-rpg.github.io/flightmare/
      license: MIT
    - name: FlightGoggles
      github_id: mit-aera/FlightGoggles
-     labels: [ROS1]
+     labels: ["ROS1"]
      category: aerial
      homepage: https://flightgoggles.mit.edu/
      license: MIT
    - name: Gym Pybullet Drones
      github_id: utiasDSL/gym-pybullet-drones
-     labels: [Betaflight, Crazyfile]
+     labels: ["Betaflight", "Crazyfile"]
      category: aerial
      homepage: https://utiasdsl.github.io/gym-pybullet-drones/
    - name: RotorTM
      github_id: arplaboratory/RotorTM
-     labels: [ROS1]
+     labels: ["ROS1"]
      category: aerial
    - name: Matlab UAV Toolbox
-     labels: [ROS2, PX4, MATLAB]
+     labels: ["ROS2", "PX4", "MATLAB"]
      category: aerial
      homepage: https://www.mathworks.com/products/uav.html
      license: MathWorks Software License Agreement
@@ -103,15 +103,16 @@ projects:
      category: aerial
    - name: X-plane
      homepage: https://www.x-plane.com/
+     labels: []
      license: proprietary license
      category: aerial
    - name: jMAVSim
      github_id: PX4/jMAVSim
-     labels: [PX4]
+     labels: ["PX4"]
      category: aerial
    - name: Cosys-AirSim
      github_id: Cosys-Lab/Cosys-AirSim
-     labels: [PX4, MATLAB]
+     labels: ["PX4", "MATLAB"]
      category: aerial
      license: mit
      homepage: https://cosys-lab.github.io/Cosys-AirSim/
