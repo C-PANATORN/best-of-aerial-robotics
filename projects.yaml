@@ -13,6 +13,9 @@ configuration:
   hide_license_risk: True
 
 categories:
+   - category: stacks
+     title: Aerial Autonomy Stacks
+     subtitle: "Software development stacks for aerial robotics"
    - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
@@ -61,6 +64,66 @@ labels:
      name: "OpenAI Gymnasium"
    
 projects:
+   # Autonomy Stacks
+   - name: Aerostack(1)
+     github_id: cvar-upm/aerostack
+     labels: []
+     category: stacks
+     homepage: https://github.com/cvar-upm/aerostack/wiki
+     license: BSD-3-Clause
+   - name: Aerostack2
+     github_id: aerostack2/aerostack2
+     labels: []
+     category: stacks
+     homepage: https://aerostack2.github.io/
+   - name: Aerial Autonomy Stack (AAS)
+     github_id: JacopoPan/aerial-autonomy-stack
+     labels: []
+     category: stacks
+   - name: Agilicious
+     github_id: uzh-rpg/agilicious
+     labels: []
+     category: stacks
+     homepage: https://agilicious.readthedocs.io/en/latest/index.html
+   - name: KumarRobotics Autonomy Stack	
+     github_id: KumarRobotics/kr_autonomous_flight
+     labels: []
+     category: stacks
+   - name: CrazyChoir
+     github_id: OPT4SMART/crazychoir
+     labels: []
+     category: stacks
+   - name: UAL
+     github_id: grvcTeam/grvc-ual
+     labels: []
+     category: stacks
+   - name: XTDrone
+     github_id: robin-shaun/XTDrone
+     labels: []
+     category: stacks
+   - name: RotorS
+     gitlab_id: ethz-asl/rotors_simulator
+     labels: []
+     category: stacks
+   - name: GAAS
+     github_id: generalized-intelligence/GAAS
+     labels: []
+     category: stacks
+   - name: MRS AUV System
+     github_id: ctu-mrs/mrs_uav_system
+     labels: []
+     category: stacks
+   - name: Crazyswarm(1)
+     gitlab_id: USC-ACTLab/crazyswarm
+     labels: []
+     category: stacks
+     homepage: https://crazyswarm.readthedocs.io/en/latest/
+   - name: Crazyswarm2
+     gitlab_id: IMRCLab/crazyswarm2
+     labels: []
+     category: stacks
+     
+   # Simulators
    - name: airsim
      github_id: microsoft/AirSim
      labels: ["NVIDIA PhysX", "Unreal Engine", "Unity"]
@@ -126,7 +189,7 @@ projects:
      category: aerial
    - name: CrazyS
      github_id: gsilano/CrazyS
-     labels: []
+     labels: ["Gazebo"]
      category: aerial
    - name: X-plane
      homepage: https://www.x-plane.com/
@@ -153,12 +216,12 @@ projects:
      category: aerial
    - name: Gymfc
      github_id: wil3/gymfc/
-     labels: ["PyBullet", "OpenGL"]
+     labels: []
      category: aerial
      homepage:  http://wfk.io/neuroflight/
    - name: PyFlyt
      github_id: jjshoots/PyFlyt
-     labels: []
+     labels: ["PyBullet", "OpenGL"]
      category: aerial
      home_page: https://taijunjet.com/PyFlyt/index.html
      pypi_id: pyflyt
