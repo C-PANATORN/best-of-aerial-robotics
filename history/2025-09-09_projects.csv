@@ -20,5 +20,5 @@
 18,Itomori,gustavo-moura/itomori,[],aerial,True,,MIT,https://github.com/gustavo-moura/itomori,https://github.com/gustavo-moura/itomori,2024-10-29 03:55:56,2024-10-29 16:35:23,2024-10-29 16:35:20,4.0,,1.0,,,,9.0,,,,,,Gymnasium environment for research of UAVs and risk constraints.,,,,4,3,,,,,,,
 19,Matlab UAV Toolbox,,"['ROS2', 'PX4', 'MATLAB']",aerial,True,,MathWorks Software License Agreement,,https://www.mathworks.com/products/uav.html,,,,,,,,,,,,,,,,,,,,1,3,,,,,,,
 20,Realflight,,[],aerial,True,,proprietary software license,,https://www.realflight.com/,,,,,,,,,,,,,,,,,,,,1,3,,,,,,,
-21,X-plane,,,aerial,True,,proprietary license,,https://www.x-plane.com/,,,,,,,,,,,,,,,,,,,,1,3,,,,,,,
+21,X-plane,,[],aerial,True,,proprietary license,,https://www.x-plane.com/,,,,,,,,,,,,,,,,,,,,1,3,,,,,,,
 22,Spleenlab simulator,,[],aerial,True,,proprietary,,https://spleenlab.com/,,,,,,,,,,,,,,,,,,,,1,3,,,,,,,
