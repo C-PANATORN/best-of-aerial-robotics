@@ -244,7 +244,7 @@ projects:
      show: False # No Project Information
      category: aerial
      license: proprietary
-   - name: Project AirSIm
+   - name: Project AirSim
      github_id: iamaisim/ProjectAirSim
      labels: ["Unreal Engine"]
      category: aerial
