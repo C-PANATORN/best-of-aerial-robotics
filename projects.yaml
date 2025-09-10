@@ -88,10 +88,9 @@ projects:
      labels: []
      category: autopilot
    - name: Betaflight
-     gitlab_id: djtms/betaflight
+     homepage: "https://gitlab.com/djtms/betaflight"
      labels: []
      category: autopilot
-     homepage: "https://gitlab.com/djtms/betaflight"
      description: "Open Source Flight Controller Firmware"
      license: "GPL-3.0"
      star_count: 10000
