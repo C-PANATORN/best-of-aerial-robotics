@@ -126,6 +126,11 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 </details>
 <details><summary><b><a href="https://gitlab.com/djtms/betaflight">Betaflight</a></b> (🥉2 · 💤) - Open Source Flight Controller Firmware. <code>Unlicensed</code></summary>
 
+- [GitHub]():
+
+	```
+	git clone https://github.com/betaflight/betaflight
+	```
 - [GitLab](https://gitlab.com/djtms/betaflight) (🔀 0 · ⏱️ 23.06.2022):
 
 	```
