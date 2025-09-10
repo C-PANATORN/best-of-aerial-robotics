@@ -68,6 +68,7 @@ projects:
    - name: Aerostack(1)
      github_id: cvar-upm/aerostack
      labels: []
+     show: False # Inactive
      category: stacks
    - name: Aerostack2
      github_id: aerostack2/aerostack2
@@ -89,6 +90,7 @@ projects:
    - name: RotorS
      github_id: ethz-asl/rotors_simulator
      labels: ["Gazebo"]
+     show: False # Inactive
      category: aerial
      license: mit
    - name: Pegasus Simulator
@@ -104,12 +106,14 @@ projects:
    - name: Flightmare
      github_id: uzh-rpg/flightmare
      labels: ["Gazebo", "Ad hoc", "OpenAI Gym", "Unity"]
+     show: False # Inactive
      category: aerial
      homepage: https://uzh-rpg.github.io/flightmare/
      license: MIT
    - name: FlightGoggles
      github_id: mit-aera/FlightGoggles
      labels: ["Ad hoc", "Unity"]
+     show: False # Inactive
      category: aerial
      homepage: https://flightgoggles.mit.edu/
      license: MIT
@@ -121,20 +125,24 @@ projects:
    - name: RotorTM
      github_id: arplaboratory/RotorTM
      labels: ["Ad hoc", "OpenGL"]
+     show: False # Inactive
      category: aerial
    - name: Matlab UAV Toolbox
      labels: ["MATLAB", "Unreal Engine"]
+     show: False # No Project Information
      category: aerial
      homepage: https://www.mathworks.com/products/uav.html
      license: MathWorks Software License Agreement
    - name: Flightgear
      gitlab_id: flightgear/flightgear
      labels: []
+     show: False # Inactive
      category: aerial
      homepage: https://www.flightgear.org/
      license: gnu-gpl2
    - name: Realflight
      labels: []
+     show: False # No Project Information
      category: aerial
      homepage: https://www.realflight.com/
      license: proprietary software license
@@ -145,15 +153,18 @@ projects:
    - name: CrazyS
      github_id: gsilano/CrazyS
      labels: ["Gazebo"]
+     show: False # Inactive
      category: aerial
    - name: X-plane
      homepage: https://www.x-plane.com/
      labels: []
+     show: False # No Project Information
      license: proprietary license
      category: aerial
    - name: jMAVSim
      github_id: PX4/jMAVSim
      labels: ["Java3D"]
+     show: False # Inactive
      category: aerial
    - name: Cosys-AirSim
      github_id: Cosys-Lab/Cosys-AirSim
@@ -172,6 +183,7 @@ projects:
    - name: Gymfc
      github_id: wil3/gymfc/
      labels: []
+     show: False # Inactive
      category: aerial
      homepage:  http://wfk.io/neuroflight/
    - name: PyFlyt
@@ -192,10 +204,14 @@ projects:
    - name: Spleenlab simulator
      homepage: https://spleenlab.com/
      labels: []
+     show: False # No Project Information
      category: aerial
      license: proprietary
-
-
+   - name: Project AirSIm
+     github_id: iamaisim/ProjectAirSim
+     label: ["Unreal Engine"]   
+     category: aerial
+     
 
 
 
