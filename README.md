@@ -15,7 +15,7 @@
     <a href="https://github.com/C-PANATORN/best-of-aerial-robotics/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/C-PANATORN/best-of-aerial-robotics?color=green&label=updated"></a>
 </p>
 
-This curated list contains 34 awesome open-source projects with a total of 53K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/C-PANATORN/best-of-aerial-robotics/issues/new/choose), submit a [pull request](https://github.com/C-PANATORN/best-of-aerial-robotics/pulls), or directly edit the [projects.yaml](https://github.com/C-PANATORN/best-of-aerial-robotics/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 34 awesome open-source projects with a total of 63K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/C-PANATORN/best-of-aerial-robotics/issues/new/choose), submit a [pull request](https://github.com/C-PANATORN/best-of-aerial-robotics/pulls), or directly edit the [projects.yaml](https://github.com/C-PANATORN/best-of-aerial-robotics/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -124,19 +124,9 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 	git clone https://github.com/dji-sdk/Onboard-SDK-ROS
 	```
 </details>
-<details><summary><b><a href="https://gitlab.com/djtms/betaflight">Betaflight</a></b> (🥉2 · 💤) - Open Source Flight Controller Firmware. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://gitlab.com/djtms/betaflight">Betaflight</a></b> (🥉6 ·  ⭐ 10K · 📈) - Open Source Flight Controller Firmware. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub]():
-
-	```
-	git clone https://github.com/betaflight/betaflight
-	```
-- [GitLab](https://gitlab.com/djtms/betaflight) (🔀 0 · ⏱️ 23.06.2022):
-
-	```
-	git clone https://gitlab.com/djtms/betaflight
-	```
-</details>
+- _No project information available._</details>
 <br>
 
 ## Aerial Robotics Simulators
