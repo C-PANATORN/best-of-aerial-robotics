@@ -124,7 +124,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 	git clone https://github.com/dji-sdk/Onboard-SDK-ROS
 	```
 </details>
-<details><summary><b><a href="https://gitlab.com/djtms/betaflight">Betaflight</a></b> (🥉6 ·  ⭐ 10K · 📈) - Open Source Flight Controller Firmware. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://gitlab.com/djtms/betaflight">Betaflight</a></b> (🥉6 ·  ⭐ 10K) - Open Source Flight Controller Firmware. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - _No project information available._</details>
 <br>
@@ -163,7 +163,7 @@ _Simulator frameworks made especially for aerial robotics_
 	pip install pyflyt
 	```
 </details>
-<details><summary><b><a href="https://github.com/iamaisim/ProjectAirSim">Project AirSIm</a></b> (🥈16 ·  ⭐ 240 · 🐣) - Project AirSim is Microsofts evolution of AirSim an advanced simulation platform for building, training, and testing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Unreal Engine</code></summary>
+<details><summary><b><a href="https://github.com/iamaisim/ProjectAirSim">Project AirSim</a></b> (🥈16 ·  ⭐ 240 · 🐣) - Project AirSim is Microsofts evolution of AirSim an advanced simulation platform for building, training, and testing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Unreal Engine</code></summary>
 
 - [GitHub](https://github.com/iamaisim/ProjectAirSim) (👨‍💻 9 · 🔀 23 · 📥 330 · 📋 18 - 77% open · ⏱️ 08.09.2025):
 
@@ -250,9 +250,10 @@ _Simulator frameworks made especially for aerial robotics_
 
 ---
 
-## Related Resources
+## Community Discord Channels
 
-- [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**OSRF- ROS Aerial Community**](https://discord.com/invite/open-robotics-1077825543698927656)
+- [**Dronecode Foundation**](https://discord.com/invite/Dronecode)
 
 ## Contribution
 
