@@ -1,9 +1,10 @@
 
 ---
 
-## Related Resources
+## Community Discord Channels
 
-- [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**OSRF- ROS Aerial Community**](https://discord.com/invite/open-robotics-1077825543698927656)
+- [**Dronecode Foundation**](https://discord.com/invite/Dronecode)
 
 ## Contribution
 
