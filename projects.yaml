@@ -16,6 +16,9 @@ categories:
    - category: stacks
      title: Aerial Autonomy Stacks
      subtitle: "Software development stacks for aerial robotics"
+   - category: autopilot
+     title: AutoPilot Suites
+     subtitle: "AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL) options"
    - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
@@ -209,7 +212,7 @@ projects:
      license: proprietary
    - name: Project AirSIm
      github_id: iamaisim/ProjectAirSim
-     label: ["Unreal Engine"]   
+     labels: ["Unreal Engine"]
      category: aerial
      
 
