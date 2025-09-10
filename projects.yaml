@@ -81,6 +81,36 @@ projects:
      github_id: JacopoPan/aerial-autonomy-stack
      labels: []
      category: stacks
+
+   # AutoPilots
+   - name: ArduPilot
+     github_id: ArduPilot/ardupilot
+     labels: []
+     category: autopilot
+   - name: Betaflight
+     github_id: betaflight/betaflight
+     labels: []
+     category: autopilot
+   - name: Crazyflie
+     github_id: bitcraze/crazyflie-firmware
+     labels: []
+     category: autopilot
+   - name: DJI
+     github_id: dji-sdk/Onboard-SDK-ROS
+     labels: []
+     category: autopilot
+   - name: Paparazzi UAV
+     github_id: paparazzi/paparazzi
+     labels: []
+     category: autopilot
+   - name: PX4
+     github_id: PX4/PX4-Autopilot
+     labels: []
+     category: autopilot
+   - name: ROSflight
+     github_id: rosflight/rosflight_firmware
+     labels: []
+     category: autopilot
      
    # Simulators
    - name: airsim
