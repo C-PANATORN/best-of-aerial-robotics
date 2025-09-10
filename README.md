@@ -10,19 +10,19 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-33-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-34-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/C-PANATORN/best-of-aerial-robotics/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/C-PANATORN/best-of-aerial-robotics?color=green&label=updated"></a>
 </p>
 
-This curated list contains 33 awesome open-source projects with a total of 53K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/C-PANATORN/best-of-aerial-robotics/issues/new/choose), submit a [pull request](https://github.com/C-PANATORN/best-of-aerial-robotics/pulls), or directly edit the [projects.yaml](https://github.com/C-PANATORN/best-of-aerial-robotics/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 34 awesome open-source projects with a total of 53K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/C-PANATORN/best-of-aerial-robotics/issues/new/choose), submit a [pull request](https://github.com/C-PANATORN/best-of-aerial-robotics/pulls), or directly edit the [projects.yaml](https://github.com/C-PANATORN/best-of-aerial-robotics/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [Aerial Autonomy Stacks](#aerial-autonomy-stacks) _3 projects_
-- [AutoPilot Suites](#autopilot-suites) _6 projects_
+- [AutoPilot Suites](#autopilot-suites) _7 projects_
 - [Aerial Robotics Simulators](#aerial-robotics-simulators) _24 projects_
 
 ## Explanation
@@ -76,7 +76,7 @@ _Software development stacks for aerial robotics_
 
 _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL) options_
 
-<details><summary><b><a href="https://github.com/PX4/PX4-Autopilot">PX4</a></b> (🥇35 ·  ⭐ 10K · ➕) - PX4 Autopilot Software. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/PX4/PX4-Autopilot">PX4</a></b> (🥇35 ·  ⭐ 10K) - PX4 Autopilot Software. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/PX4/PX4-Autopilot) (👨‍💻 980 · 🔀 13K · 📥 180K · 📋 8.3K - 19% open · ⏱️ 10.09.2025):
 
@@ -84,7 +84,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 	git clone https://github.com/PX4/PX4-Autopilot
 	```
 </details>
-<details><summary><b><a href="https://github.com/ArduPilot/ardupilot">ArduPilot</a></b> (🥈33 ·  ⭐ 13K · ➕) - ArduPlane, ArduCopter, ArduRover, ArduSub source. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/ArduPilot/ardupilot">ArduPilot</a></b> (🥈33 ·  ⭐ 13K) - ArduPlane, ArduCopter, ArduRover, ArduSub source. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/ArduPilot/ardupilot) (👨‍💻 1.2K · 🔀 18K · 📋 7.4K - 21% open · ⏱️ 07.09.2025):
 
@@ -92,7 +92,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 	git clone https://github.com/ArduPilot/ardupilot
 	```
 </details>
-<details><summary><b><a href="https://github.com/paparazzi/paparazzi">Paparazzi UAV</a></b> (🥈25 ·  ⭐ 1.6K · ➕) - Paparazzi is a free and open-source hardware and software project for unmanned (air) vehicles. This is the main.. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
+<details><summary><b><a href="https://github.com/paparazzi/paparazzi">Paparazzi UAV</a></b> (🥈25 ·  ⭐ 1.6K) - Paparazzi is a free and open-source hardware and software project for unmanned (air) vehicles. This is the main.. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
 
 - [GitHub](https://github.com/paparazzi/paparazzi) (👨‍💻 170 · 🔀 930 · 📥 13K · 📋 820 - 7% open · ⏱️ 04.09.2025):
 
@@ -100,7 +100,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 	git clone https://github.com/paparazzi/paparazzi
 	```
 </details>
-<details><summary><b><a href="https://github.com/bitcraze/crazyflie-firmware">Crazyflie</a></b> (🥉22 ·  ⭐ 1.4K · ➕) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/bitcraze/crazyflie-firmware">Crazyflie</a></b> (🥉22 ·  ⭐ 1.4K) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/bitcraze/crazyflie-firmware) (👨‍💻 120 · 🔀 1K · 📥 15K · 📋 720 - 9% open · ⏱️ 08.09.2025):
 
@@ -108,7 +108,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 	git clone https://github.com/bitcraze/crazyflie-firmware
 	```
 </details>
-<details><summary><b><a href="https://github.com/rosflight/rosflight_firmware">ROSflight</a></b> (🥉18 ·  ⭐ 140 · ➕) - Firmware for the ROSflight autopilot. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/rosflight/rosflight_firmware">ROSflight</a></b> (🥉18 ·  ⭐ 140) - Firmware for the ROSflight autopilot. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/rosflight/rosflight_firmware) (👨‍💻 23 · 🔀 47 · 📥 820 · 📋 230 - 8% open · ⏱️ 04.08.2025):
 
@@ -122,6 +122,14 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 
 	```
 	git clone https://github.com/dji-sdk/Onboard-SDK-ROS
+	```
+</details>
+<details><summary><b><a href="https://gitlab.com/djtms/betaflight">Betaflight</a></b> (🥉2 · 💤) - Open Source Flight Controller Firmware. <code>Unlicensed</code></summary>
+
+- [GitLab](https://gitlab.com/djtms/betaflight) (🔀 0 · ⏱️ 23.06.2022):
+
+	```
+	git clone https://gitlab.com/djtms/betaflight
 	```
 </details>
 <br>
