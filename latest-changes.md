@@ -1,10 +1,1 @@
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://github.com/mavlink/mavros">MAVROS</a></b> (🥇22 ·  ⭐ 1K · ➕) - MAVLink to ROS gateway with proxy for Ground Control Station. <code>Unlicensed</code>
-- <b><a href="https://github.com/mavlink/mavlink">MAVlink</a></b> (🥈20 ·  ⭐ 2K · ➕) - Marshalling / communication library for drones. <code>Unlicensed</code>
-- <b><a href="https://github.com/eclipse-zenoh/zenoh-plugin-dds">Eclipse Zenoh</a></b> (🥉18 ·  ⭐ 180 · ➕) - A zenoh plug-in that allows to transparently route DDS data. This plugin can be used by DDS applications to leverage.. <code>Unlicensed</code>
-- <b><a href="https://github.com/eProsima/Micro-XRCE-DDS">Micro-XRCE-DDS</a></b> (🥉12 ·  ⭐ 170 · ➕) - An XRCE DDS implementation. Looking for commercial support? Contact info@eprosima.com. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/eProsima/px4_to_ros">PX4-FastRTPS-ROS</a></b> (🥉6 ·  ⭐ 27 · 💤) - ROS2/ROS packages for communicate PX4 with ROS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-
+Nothing changed from last update.

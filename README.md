@@ -23,7 +23,7 @@ This curated list contains 39 awesome open-source projects with a total of 66K s
 
 - [Aerial Autonomy Stacks](#aerial-autonomy-stacks) _3 projects_
 - [AutoPilot Suites](#autopilot-suites) _7 projects_
-- [UAV Messsaging and Commucation Protocols](#uav-messsaging-and-commucation-protocols) _5 projects_
+- [UAV Messaging and Communication Protocols](#uav-messaging-and-communication-protocols) _5 projects_
 - [Aerial Robotics Simulators](#aerial-robotics-simulators) _24 projects_
 
 ## Explanation
@@ -130,13 +130,13 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 - _No project information available._</details>
 <br>
 
-## UAV Messsaging and Commucation Protocols
+## UAV Messaging and Communication Protocols
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-_AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL) options_
+_Messaging and communication protocols used in aerial systems_
 
-<details><summary><b><a href="https://github.com/mavlink/mavros">MAVROS</a></b> (🥇22 ·  ⭐ 1K · ➕) - MAVLink to ROS gateway with proxy for Ground Control Station. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/mavlink/mavros">MAVROS</a></b> (🥇22 ·  ⭐ 1K) - MAVLink to ROS gateway with proxy for Ground Control Station. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/mavlink/mavros) (👨‍💻 180 · 🔀 980 · 📋 1.5K - 26% open · ⏱️ 10.09.2025):
 
@@ -144,7 +144,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 	git clone https://github.com/mavlink/mavros
 	```
 </details>
-<details><summary><b><a href="https://github.com/mavlink/mavlink">MAVlink</a></b> (🥈20 ·  ⭐ 2K · ➕) - Marshalling / communication library for drones. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/mavlink/mavlink">MAVlink</a></b> (🥈20 ·  ⭐ 2K) - Marshalling / communication library for drones. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/mavlink/mavlink) (👨‍💻 260 · 🔀 1.7K · 📋 650 - 12% open · ⏱️ 22.08.2025):
 
@@ -152,7 +152,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 	git clone https://github.com/mavlink/mavlink
 	```
 </details>
-<details><summary><b><a href="https://github.com/eclipse-zenoh/zenoh-plugin-dds">Eclipse Zenoh</a></b> (🥉18 ·  ⭐ 180 · ➕) - A zenoh plug-in that allows to transparently route DDS data. This plugin can be used by DDS applications to leverage.. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/eclipse-zenoh/zenoh-plugin-dds">Eclipse Zenoh</a></b> (🥉18 ·  ⭐ 180) - A zenoh plug-in that allows to transparently route DDS data. This plugin can be used by DDS applications to leverage.. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/eclipse-zenoh/zenoh-plugin-dds) (👨‍💻 33 · 🔀 59 · 📥 6.7K · 📦 2 · 📋 92 - 14% open · ⏱️ 12.09.2025):
 
@@ -160,7 +160,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 	git clone https://github.com/eclipse-zenoh/zenoh-plugin-dds
 	```
 </details>
-<details><summary><b><a href="https://github.com/eProsima/Micro-XRCE-DDS">Micro-XRCE-DDS</a></b> (🥉12 ·  ⭐ 170 · ➕) - An XRCE DDS implementation. Looking for commercial support? Contact info@eprosima.com. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/eProsima/Micro-XRCE-DDS">Micro-XRCE-DDS</a></b> (🥉12 ·  ⭐ 170) - An XRCE DDS implementation. Looking for commercial support? Contact info@eprosima.com. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/eProsima/Micro-XRCE-DDS) (👨‍💻 15 · 🔀 16 · 📋 59 - 27% open · ⏱️ 18.03.2025):
 
