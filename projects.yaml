@@ -19,6 +19,9 @@ categories:
    - category: autopilot
      title: AutoPilot Suites
      subtitle: "AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL) options"
+   - category: protocols
+     title: UAV Messsaging and Commucation Protocols 
+     subtitle: "AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL) options"
    - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
@@ -115,6 +118,28 @@ projects:
      github_id: rosflight/rosflight_firmware
      labels: []
      category: autopilot
+
+# UAV Messsaging and Commucation Protocols 
+   - name: MAVROS
+     github_id: mavlink/mavros
+     labels: []
+     category: protocols
+   - name: MAVlink
+     github_id: mavlink/mavlink
+     labels: []
+     category: protocols
+   - name: Micro-XRCE-DDS
+     github_id: eProsima/Micro-XRCE-DDS
+     labels: []
+     category: protocols
+   - name: PX4-FastRTPS-ROS
+     github_id: eProsima/px4_to_ros
+     labels: []
+     category: protocols
+   - name: Eclipse Zenoh
+     github_id: eclipse-zenoh/zenoh-plugin-dds
+     labels: []
+     category: protocols
      
    # Simulators
    - name: airsim
