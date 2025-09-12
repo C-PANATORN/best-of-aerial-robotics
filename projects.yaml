@@ -20,8 +20,8 @@ categories:
      title: AutoPilot Suites
      subtitle: "AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL) options"
    - category: protocols
-     title: UAV Messsaging and Commucation Protocols 
-     subtitle: "AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL) options"
+     title: UAV Messaging and Communication Protocols 
+     subtitle: "Messaging and communication protocols used in aerial systems"
    - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
@@ -85,7 +85,6 @@ projects:
      labels: []
      category: stacks
 
-
    # AutoPilots
    - name: ArduPilot
      github_id: ArduPilot/ardupilot
@@ -120,7 +119,6 @@ projects:
      labels: []
      category: autopilot
      
-
 # UAV Messsaging and Commucation Protocols 
    - name: MAVROS
      github_id: mavlink/mavros
@@ -142,7 +140,6 @@ projects:
      github_id: eclipse-zenoh/zenoh-plugin-dds
      labels: []
      category: protocols
-
      
    # Simulators
    - name: airsim
