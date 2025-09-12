@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-34-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-39-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/C-PANATORN/best-of-aerial-robotics/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/C-PANATORN/best-of-aerial-robotics?color=green&label=updated"></a>
 </p>
 
-This curated list contains 34 awesome open-source projects with a total of 63K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/C-PANATORN/best-of-aerial-robotics/issues/new/choose), submit a [pull request](https://github.com/C-PANATORN/best-of-aerial-robotics/pulls), or directly edit the [projects.yaml](https://github.com/C-PANATORN/best-of-aerial-robotics/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 39 awesome open-source projects with a total of 66K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/C-PANATORN/best-of-aerial-robotics/issues/new/choose), submit a [pull request](https://github.com/C-PANATORN/best-of-aerial-robotics/pulls), or directly edit the [projects.yaml](https://github.com/C-PANATORN/best-of-aerial-robotics/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -23,6 +23,7 @@ This curated list contains 34 awesome open-source projects with a total of 63K s
 
 - [Aerial Autonomy Stacks](#aerial-autonomy-stacks) _3 projects_
 - [AutoPilot Suites](#autopilot-suites) _7 projects_
+- [UAV Messsaging and Commucation Protocols](#uav-messsaging-and-commucation-protocols) _5 projects_
 - [Aerial Robotics Simulators](#aerial-robotics-simulators) _24 projects_
 
 ## Explanation
@@ -50,15 +51,15 @@ _Software development stacks for aerial robotics_
 
 <details><summary><b><a href="https://github.com/aerostack2/aerostack2">Aerostack2</a></b> (🥇19 ·  ⭐ 230) - Aerostack2 is a ROS 2 framework developed to create autonomous multi-aerial-robots systems in an easy and powerful way. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/aerostack2/aerostack2) (👨‍💻 19 · 🔀 56 · 📋 310 - 18% open · ⏱️ 10.09.2025):
+- [GitHub](https://github.com/aerostack2/aerostack2) (👨‍💻 19 · 🔀 56 · 📋 310 - 18% open · ⏱️ 11.09.2025):
 
 	```
 	git clone https://github.com/aerostack2/aerostack2
 	```
 </details>
-<details><summary><b><a href="https://github.com/JacopoPan/aerial-autonomy-stack">Aerial Autonomy Stack (AAS)</a></b> (🥉9 ·  ⭐ 15 · 🐣) - ROS2 multi-drone PX4 and ArduPilot SITL with YOLOusing Dockerized simulation and deployment for Jetson. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/JacopoPan/aerial-autonomy-stack">Aerial Autonomy Stack (AAS)</a></b> (🥉9 ·  ⭐ 17 · 🐣) - ROS2 multi-drone PX4 and ArduPilot SITL with YOLOusing Dockerized simulation and deployment for Jetson. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) (👨‍💻 3 · 🔀 1 · ⏱️ 09.09.2025):
+- [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) (👨‍💻 3 · 🔀 2 · ⏱️ 12.09.2025):
 
 	```
 	git clone https://github.com/JacopoPan/aerial-autonomy-stack
@@ -78,7 +79,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 
 <details><summary><b><a href="https://github.com/PX4/PX4-Autopilot">PX4</a></b> (🥇35 ·  ⭐ 10K) - PX4 Autopilot Software. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/PX4/PX4-Autopilot) (👨‍💻 980 · 🔀 13K · 📥 180K · 📋 8.3K - 19% open · ⏱️ 10.09.2025):
+- [GitHub](https://github.com/PX4/PX4-Autopilot) (👨‍💻 990 · 🔀 13K · 📥 180K · 📋 8.3K - 19% open · ⏱️ 12.09.2025):
 
 	```
 	git clone https://github.com/PX4/PX4-Autopilot
@@ -86,7 +87,7 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 </details>
 <details><summary><b><a href="https://github.com/ArduPilot/ardupilot">ArduPilot</a></b> (🥈33 ·  ⭐ 13K) - ArduPlane, ArduCopter, ArduRover, ArduSub source. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/ArduPilot/ardupilot) (👨‍💻 1.2K · 🔀 18K · 📋 7.4K - 21% open · ⏱️ 07.09.2025):
+- [GitHub](https://github.com/ArduPilot/ardupilot) (👨‍💻 1.2K · 🔀 18K · 📋 7.4K - 21% open · ⏱️ 11.09.2025):
 
 	```
 	git clone https://github.com/ArduPilot/ardupilot
@@ -129,6 +130,54 @@ _AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL
 - _No project information available._</details>
 <br>
 
+## UAV Messsaging and Commucation Protocols
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_AutoPilot suites with Software-in-the-Loop (SITL) or Hardware-in-the-Loop (HITL) options_
+
+<details><summary><b><a href="https://github.com/mavlink/mavros">MAVROS</a></b> (🥇22 ·  ⭐ 1K · ➕) - MAVLink to ROS gateway with proxy for Ground Control Station. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/mavlink/mavros) (👨‍💻 180 · 🔀 980 · 📋 1.5K - 26% open · ⏱️ 10.09.2025):
+
+	```
+	git clone https://github.com/mavlink/mavros
+	```
+</details>
+<details><summary><b><a href="https://github.com/mavlink/mavlink">MAVlink</a></b> (🥈20 ·  ⭐ 2K · ➕) - Marshalling / communication library for drones. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/mavlink/mavlink) (👨‍💻 260 · 🔀 1.7K · 📋 650 - 12% open · ⏱️ 22.08.2025):
+
+	```
+	git clone https://github.com/mavlink/mavlink
+	```
+</details>
+<details><summary><b><a href="https://github.com/eclipse-zenoh/zenoh-plugin-dds">Eclipse Zenoh</a></b> (🥉18 ·  ⭐ 180 · ➕) - A zenoh plug-in that allows to transparently route DDS data. This plugin can be used by DDS applications to leverage.. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/eclipse-zenoh/zenoh-plugin-dds) (👨‍💻 33 · 🔀 59 · 📥 6.7K · 📦 2 · 📋 92 - 14% open · ⏱️ 12.09.2025):
+
+	```
+	git clone https://github.com/eclipse-zenoh/zenoh-plugin-dds
+	```
+</details>
+<details><summary><b><a href="https://github.com/eProsima/Micro-XRCE-DDS">Micro-XRCE-DDS</a></b> (🥉12 ·  ⭐ 170 · ➕) - An XRCE DDS implementation. Looking for commercial support? Contact info@eprosima.com. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/eProsima/Micro-XRCE-DDS) (👨‍💻 15 · 🔀 16 · 📋 59 - 27% open · ⏱️ 18.03.2025):
+
+	```
+	git clone https://github.com/eProsima/Micro-XRCE-DDS
+	```
+</details>
+<details><summary><b><a href="https://github.com/eProsima/px4_to_ros">PX4-FastRTPS-ROS</a></b> (🥉6 ·  ⭐ 27 · 💤) - ROS2/ROS packages for communicate PX4 with ROS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/eProsima/px4_to_ros) (👨‍💻 2 · 🔀 1 · ⏱️ 09.06.2017):
+
+	```
+	git clone https://github.com/eProsima/px4_to_ros
+	```
+</details>
+<br>
+
 ## Aerial Robotics Simulators
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
@@ -137,7 +186,7 @@ _Simulator frameworks made especially for aerial robotics_
 
 <details><summary><b><a href="https://cosys-lab.github.io/Cosys-AirSim/">Cosys-AirSim</a></b> (🥇20 ·  ⭐ 220) - AirSim is a simulator for drones, cars and more, built on Unreal Engine. We expand it with new implementations and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Unreal Engine</code></summary>
 
-- [GitHub](https://github.com/Cosys-Lab/Cosys-AirSim) (👨‍💻 260 · 🔀 77 · 📥 5.7K · 📋 77 - 49% open · ⏱️ 16.04.2025):
+- [GitHub](https://github.com/Cosys-Lab/Cosys-AirSim) (👨‍💻 260 · 🔀 78 · 📥 5.8K · 📋 77 - 49% open · ⏱️ 16.04.2025):
 
 	```
 	git clone https://github.com/Cosys-Lab/Cosys-AirSim
@@ -163,17 +212,17 @@ _Simulator frameworks made especially for aerial robotics_
 	pip install pyflyt
 	```
 </details>
-<details><summary><b><a href="https://github.com/iamaisim/ProjectAirSim">Project AirSim</a></b> (🥈16 ·  ⭐ 240 · 🐣) - Project AirSim is Microsofts evolution of AirSim an advanced simulation platform for building, training, and testing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Unreal Engine</code></summary>
+<details><summary><b><a href="https://github.com/iamaisim/ProjectAirSim">Project AirSim</a></b> (🥈16 ·  ⭐ 250 · 🐣) - Project AirSim is Microsofts evolution of AirSim an advanced simulation platform for building, training, and testing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Unreal Engine</code></summary>
 
-- [GitHub](https://github.com/iamaisim/ProjectAirSim) (👨‍💻 9 · 🔀 23 · 📥 330 · 📋 18 - 77% open · ⏱️ 08.09.2025):
+- [GitHub](https://github.com/iamaisim/ProjectAirSim) (👨‍💻 9 · 🔀 25 · 📥 340 · 📋 19 - 78% open · ⏱️ 08.09.2025):
 
 	```
 	git clone https://github.com/iamaisim/ProjectAirSim
 	```
 </details>
-<details><summary><b><a href="https://pegasussimulator.github.io/PegasusSimulator/">Pegasus Simulator</a></b> (🥈15 ·  ⭐ 540) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>NVIDIA Isaac Sim</code></summary>
+<details><summary><b><a href="https://pegasussimulator.github.io/PegasusSimulator/">Pegasus Simulator</a></b> (🥈15 ·  ⭐ 550) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>NVIDIA Isaac Sim</code></summary>
 
-- [GitHub](https://github.com/PegasusSimulator/PegasusSimulator) (👨‍💻 4 · 🔀 100 · 📋 51 - 37% open · ⏱️ 20.07.2025):
+- [GitHub](https://github.com/PegasusSimulator/PegasusSimulator) (👨‍💻 4 · 🔀 100 · 📋 52 - 36% open · ⏱️ 20.07.2025):
 
 	```
 	git clone https://github.com/PegasusSimulator/PegasusSimulator
@@ -181,7 +230,7 @@ _Simulator frameworks made especially for aerial robotics_
 </details>
 <details><summary><b><a href="https://ntnu-arl.github.io/aerial_gym_simulator/">Aerial Gym Simulator</a></b> (🥈14 ·  ⭐ 560) - Aerial Gym Simulator - Isaac Gym Simulator for Aerial Robots. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>NVIDIA Isaac Gym</code></summary>
 
-- [GitHub](https://github.com/ntnu-arl/aerial_gym_simulator) (👨‍💻 4 · 🔀 86 · 📋 41 - 26% open · ⏱️ 07.07.2025):
+- [GitHub](https://github.com/ntnu-arl/aerial_gym_simulator) (👨‍💻 4 · 🔀 87 · 📋 42 - 26% open · ⏱️ 07.07.2025):
 
 	```
 	git clone https://github.com/ntnu-arl/aerial_gym_simulator
@@ -210,7 +259,7 @@ _Simulator frameworks made especially for aerial robotics_
 	```
 	git clone https://github.com/GongXudong/fly-craft
 	```
-- [PyPi](https://pypi.org/project/flycraft) (📥 130 / month):
+- [PyPi](https://pypi.org/project/flycraft) (📥 120 / month):
 	```
 	pip install flycraft
 	```
